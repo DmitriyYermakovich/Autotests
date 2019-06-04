@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace Project_Yermakovich_1.Tests
 {
-    public class HBC_Test
+    public class HBCTest
     {
         [Test]
         public void NBC()
